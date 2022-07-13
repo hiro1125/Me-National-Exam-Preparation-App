@@ -5,9 +5,9 @@ const FullRange = () => {
   const navigate = useNavigate();
   return (
     <div className="FullRange">
-      <h1>180問試験</h1>
+      <h1>90問試験</h1>
       <div>
-        <button onClick={() => navigate(`/mainMenu/`)}>スタート</button>
+        <button onClick={() => navigate(`//`)}>スタート</button>
       </div>
       <div>
         <button onClick={() => navigate(`/mainMenu/`)}>戻る</button>

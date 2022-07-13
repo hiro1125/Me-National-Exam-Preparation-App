@@ -10,7 +10,7 @@ const MainMenu = () => {
         <button onClick={() => navigate(`/ByField/`)}>分野別</button>
       </div>
       <div>
-        <button onClick={() => navigate(`/FullRange/`)}>180問試験</button>
+        <button onClick={() => navigate(`/FullRange/`)}>90問試験</button>
       </div>
       <div>
         <button onClick={() => navigate(`/`)}>戻る</button>
